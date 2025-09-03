@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/API/.vs
+/API/ApiEncrypt.Api/.vs
+/API/ApiEncrypt.Api/bin
+/API/ApiEncrypt.Api/obj
